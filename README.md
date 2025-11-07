@@ -15,4 +15,4 @@ The application helps users plan and manage trips, store destination details, an
 - **Swing & AWT** (for GUI)
 - **MySQL** (for database)
 - **JDBC** (for database connectivity)
-- **NetBeans / Eclipse / IntelliJ** *(any IDE you used)*
+- **Eclipse**
